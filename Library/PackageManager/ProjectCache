@@ -1,22 +1,20 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: C:/Users/Andru/OneDrive/Documents/Games/Arcade_Car_Physics/car go
-      vrrr ush skrrt/Packages/manifest.json
+    m_FilePath: C:/Users/Andru/OneDrive/Documents/Games/car-go-skrrt/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637521710318096612
-    m_Hash: 1947385685
+      ticks: 637539961433134279
+    m_Hash: 2775793806
   m_LockFileStatus:
-    m_FilePath: C:/Users/Andru/OneDrive/Documents/Games/Arcade_Car_Physics/car go
-      vrrr ush skrrt/Packages/packages-lock.json
+    m_FilePath: C:/Users/Andru/OneDrive/Documents/Games/car-go-skrrt/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637527107382815785
-    m_Hash: 3705709981
+      ticks: 637539961443241436
+    m_Hash: 3167064330
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -27,8 +25,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.6.3
       source: 1
-      resolvedPath: C:\Users\Andru\OneDrive\Documents\Games\Arcade_Car_Physics\car
-        go vrrr ush skrrt\Library\PackageCache\com.unity.cinemachine@2.6.3
+      resolvedPath: C:\Users\Andru\OneDrive\Documents\Games\car-go-skrrt\Library\PackageCache\com.unity.cinemachine@2.6.3
       assetPath: Packages/com.unity.cinemachine
       name: com.unity.cinemachine
       displayName: Cinemachine
@@ -79,8 +76,12 @@ m_PackageAssets:
         - 2.6.2
         - 2.6.3-preview.2
         - 2.6.3
+        - 2.6.4
         - 2.7.1
         - 2.7.2
+        - 2.7.3
+        - 2.8.0-exp.1
+        - 2.8.0-exp.2
         compatible:
         - 2.5.0
         - 2.6.0-preview.2
@@ -94,9 +95,13 @@ m_PackageAssets:
         - 2.6.2
         - 2.6.3-preview.2
         - 2.6.3
+        - 2.6.4
         - 2.7.1
         - 2.7.2
-        verified: 2.6.3
+        - 2.7.3
+        - 2.8.0-exp.1
+        - 2.8.0-exp.2
+        verified: 2.6.4
       dependencies: []
       resolvedDependencies: []
       keywords:
@@ -147,8 +152,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.3.9
       source: 1
-      resolvedPath: C:\Users\Andru\OneDrive\Documents\Games\Arcade_Car_Physics\car
-        go vrrr ush skrrt\Library\PackageCache\com.unity.collab-proxy@1.3.9
+      resolvedPath: C:\Users\Andru\OneDrive\Documents\Games\car-go-skrrt\Library\PackageCache\com.unity.collab-proxy@1.3.9
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
       displayName: Unity Collaborate
@@ -243,8 +247,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.7
       source: 1
-      resolvedPath: C:\Users\Andru\OneDrive\Documents\Games\Arcade_Car_Physics\car
-        go vrrr ush skrrt\Library\PackageCache\com.unity.ide.rider@2.0.7
+      resolvedPath: C:\Users\Andru\OneDrive\Documents\Games\car-go-skrrt\Library\PackageCache\com.unity.ide.rider@2.0.7
       assetPath: Packages/com.unity.ide.rider
       name: com.unity.ide.rider
       displayName: JetBrains Rider Editor
@@ -347,8 +350,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.5
       source: 1
-      resolvedPath: C:\Users\Andru\OneDrive\Documents\Games\Arcade_Car_Physics\car
-        go vrrr ush skrrt\Library\PackageCache\com.unity.ide.visualstudio@2.0.5
+      resolvedPath: C:\Users\Andru\OneDrive\Documents\Games\car-go-skrrt\Library\PackageCache\com.unity.ide.visualstudio@2.0.5
       assetPath: Packages/com.unity.ide.visualstudio
       name: com.unity.ide.visualstudio
       displayName: Visual Studio Editor
@@ -419,8 +421,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.2.3
       source: 1
-      resolvedPath: C:\Users\Andru\OneDrive\Documents\Games\Arcade_Car_Physics\car
-        go vrrr ush skrrt\Library\PackageCache\com.unity.ide.vscode@1.2.3
+      resolvedPath: C:\Users\Andru\OneDrive\Documents\Games\car-go-skrrt\Library\PackageCache\com.unity.ide.vscode@1.2.3
       assetPath: Packages/com.unity.ide.vscode
       name: com.unity.ide.vscode
       displayName: Visual Studio Code Editor
@@ -484,13 +485,90 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.vscode.git
         revision: b5ec9b38109e52b1b26597d521e4df75e042ebb9
         path: 
+    - packageId: com.unity.polybrush@1.0.2
+      testable: 0
+      isDirectDependency: 1
+      version: 1.0.2
+      source: 1
+      resolvedPath: C:\Users\Andru\OneDrive\Documents\Games\car-go-skrrt\Library\PackageCache\com.unity.polybrush@1.0.2
+      assetPath: Packages/com.unity.polybrush
+      name: com.unity.polybrush
+      displayName: Polybrush
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: 
+      description: Mesh painting, sculpting, and geo-scattering tool for Unity.
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 1.0.0-preview.13
+        - 1.0.0-preview.16
+        - 1.0.0-preview.17
+        - 1.0.0
+        - 1.0.1-preview.1
+        - 1.0.1-preview.2
+        - 1.0.1
+        - 1.0.2-preview.1
+        - 1.0.2-preview.4
+        - 1.0.2
+        - 1.1.0-pre.1
+        - 1.1.2
+        compatible:
+        - 1.0.0-preview.13
+        - 1.0.0-preview.16
+        - 1.0.0-preview.17
+        - 1.0.0
+        - 1.0.1-preview.1
+        - 1.0.1-preview.2
+        - 1.0.1
+        - 1.0.2-preview.1
+        - 1.0.2-preview.4
+        - 1.0.2
+        - 1.1.0-pre.1
+        - 1.1.2
+        verified: 1.0.2
+      dependencies:
+      - name: com.unity.settings-manager
+        version: 1.0.3
+      resolvedDependencies:
+      - name: com.unity.settings-manager
+        version: 1.0.3
+      keywords:
+      - modeling
+      - sculpting
+      - push
+      - clay
+      - terrain
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637327822110000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: git+https://github.com/Unity-Technologies/polybrush.git
+        revision: 55f0abdbad1d1c08e999a55237499f00b0ce91b9
+        path: 
     - packageId: com.unity.postprocessing@3.0.3
       testable: 0
       isDirectDependency: 1
       version: 3.0.3
       source: 1
-      resolvedPath: C:\Users\Andru\OneDrive\Documents\Games\Arcade_Car_Physics\car
-        go vrrr ush skrrt\Library\PackageCache\com.unity.postprocessing@3.0.3
+      resolvedPath: C:\Users\Andru\OneDrive\Documents\Games\car-go-skrrt\Library\PackageCache\com.unity.postprocessing@3.0.3
       assetPath: Packages/com.unity.postprocessing
       name: com.unity.postprocessing
       displayName: Post Processing
@@ -577,8 +655,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 10.3.2
       source: 1
-      resolvedPath: C:\Users\Andru\OneDrive\Documents\Games\Arcade_Car_Physics\car
-        go vrrr ush skrrt\Library\PackageCache\com.unity.render-pipelines.universal@10.3.2
+      resolvedPath: C:\Users\Andru\OneDrive\Documents\Games\car-go-skrrt\Library\PackageCache\com.unity.render-pipelines.universal@10.3.2
       assetPath: Packages/com.unity.render-pipelines.universal
       name: com.unity.render-pipelines.universal
       displayName: Universal RP
@@ -613,6 +690,7 @@ m_PackageAssets:
         - 7.5.1
         - 7.5.2
         - 7.5.3
+        - 7.6.0
         - 8.0.1
         - 8.1.0
         - 8.2.0
@@ -687,8 +765,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.1.22
       source: 1
-      resolvedPath: C:\Users\Andru\OneDrive\Documents\Games\Arcade_Car_Physics\car
-        go vrrr ush skrrt\Library\PackageCache\com.unity.test-framework@1.1.22
+      resolvedPath: C:\Users\Andru\OneDrive\Documents\Games\car-go-skrrt\Library\PackageCache\com.unity.test-framework@1.1.22
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
       displayName: Test Framework
@@ -777,8 +854,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.0.1
       source: 1
-      resolvedPath: C:\Users\Andru\OneDrive\Documents\Games\Arcade_Car_Physics\car
-        go vrrr ush skrrt\Library\PackageCache\com.unity.textmeshpro@3.0.1
+      resolvedPath: C:\Users\Andru\OneDrive\Documents\Games\car-go-skrrt\Library\PackageCache\com.unity.textmeshpro@3.0.1
       assetPath: Packages/com.unity.textmeshpro
       name: com.unity.textmeshpro
       displayName: TextMeshPro
@@ -929,8 +1005,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.4.6
       source: 1
-      resolvedPath: C:\Users\Andru\OneDrive\Documents\Games\Arcade_Car_Physics\car
-        go vrrr ush skrrt\Library\PackageCache\com.unity.timeline@1.4.6
+      resolvedPath: C:\Users\Andru\OneDrive\Documents\Games\car-go-skrrt\Library\PackageCache\com.unity.timeline@1.4.6
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
       displayName: Timeline
@@ -2875,8 +2950,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.6
       source: 1
-      resolvedPath: C:\Users\Andru\OneDrive\Documents\Games\Arcade_Car_Physics\car
-        go vrrr ush skrrt\Library\PackageCache\com.unity.ext.nunit@1.0.6
+      resolvedPath: C:\Users\Andru\OneDrive\Documents\Games\car-go-skrrt\Library\PackageCache\com.unity.ext.nunit@1.0.6
       assetPath: Packages/com.unity.ext.nunit
       name: com.unity.ext.nunit
       displayName: Custom NUnit
@@ -2937,8 +3011,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.1.0
       source: 1
-      resolvedPath: C:\Users\Andru\OneDrive\Documents\Games\Arcade_Car_Physics\car
-        go vrrr ush skrrt\Library\PackageCache\com.unity.mathematics@1.1.0
+      resolvedPath: C:\Users\Andru\OneDrive\Documents\Games\car-go-skrrt\Library\PackageCache\com.unity.mathematics@1.1.0
       assetPath: Packages/com.unity.mathematics
       name: com.unity.mathematics
       displayName: Mathematics
@@ -3013,8 +3086,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 10.3.2
       source: 1
-      resolvedPath: C:\Users\Andru\OneDrive\Documents\Games\Arcade_Car_Physics\car
-        go vrrr ush skrrt\Library\PackageCache\com.unity.render-pipelines.core@10.3.2
+      resolvedPath: C:\Users\Andru\OneDrive\Documents\Games\car-go-skrrt\Library\PackageCache\com.unity.render-pipelines.core@10.3.2
       assetPath: Packages/com.unity.render-pipelines.core
       name: com.unity.render-pipelines.core
       displayName: Core RP Library
@@ -3104,6 +3176,7 @@ m_PackageAssets:
         - 7.5.1
         - 7.5.2
         - 7.5.3
+        - 7.6.0
         - 8.0.1
         - 8.1.0
         - 8.2.0
@@ -3161,8 +3234,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 10.3.2
       source: 1
-      resolvedPath: C:\Users\Andru\OneDrive\Documents\Games\Arcade_Car_Physics\car
-        go vrrr ush skrrt\Library\PackageCache\com.unity.shadergraph@10.3.2
+      resolvedPath: C:\Users\Andru\OneDrive\Documents\Games\car-go-skrrt\Library\PackageCache\com.unity.shadergraph@10.3.2
       assetPath: Packages/com.unity.shadergraph
       name: com.unity.shadergraph
       displayName: Shader Graph
@@ -3250,6 +3322,7 @@ m_PackageAssets:
         - 7.5.1
         - 7.5.2
         - 7.5.3
+        - 7.6.0
         - 8.0.1
         - 8.1.0
         - 8.2.0
@@ -3307,13 +3380,60 @@ m_PackageAssets:
         url: git+https://github.com/Unity-Technologies/Graphics.git
         revision: 1342255ea41f4ab7910113c8dc207aecdfd4cf8e
         path: 
+    - packageId: com.unity.settings-manager@1.0.3
+      testable: 0
+      isDirectDependency: 0
+      version: 1.0.3
+      source: 1
+      resolvedPath: C:\Users\Andru\OneDrive\Documents\Games\car-go-skrrt\Library\PackageCache\com.unity.settings-manager@1.0.3
+      assetPath: Packages/com.unity.settings-manager
+      name: com.unity.settings-manager
+      displayName: Settings Manager
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: 
+      description: A framework for making any serializable field a setting, complete
+        with a pre-built settings interface.
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 1.0.3
+        compatible:
+        - 1.0.3
+        verified: 1.0.3
+      dependencies: []
+      resolvedDependencies: []
+      keywords: []
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 0
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.com/Unity-Technologies/com.unity.settings-manager.git
+        revision: 473664ccba1496294b741cf169740a5d54b3d0b6
+        path: 
     - packageId: com.unity.searcher@4.3.1
       testable: 0
       isDirectDependency: 0
       version: 4.3.1
       source: 1
-      resolvedPath: C:\Users\Andru\OneDrive\Documents\Games\Arcade_Car_Physics\car
-        go vrrr ush skrrt\Library\PackageCache\com.unity.searcher@4.3.1
+      resolvedPath: C:\Users\Andru\OneDrive\Documents\Games\car-go-skrrt\Library\PackageCache\com.unity.searcher@4.3.1
       assetPath: Packages/com.unity.searcher
       name: com.unity.searcher
       displayName: Searcher
@@ -3386,6 +3506,5 @@ m_PackageAssets:
         path: 
   m_LocalPackages:
     m_LocalFileStatus: []
-m_ProjectPath: C:/Users/Andru/OneDrive/Documents/Games/Arcade_Car_Physics/car go
-  vrrr ush skrrt/Packages
+m_ProjectPath: C:/Users/Andru/OneDrive/Documents/Games/car-go-skrrt/Packages
 m_EditorVersion: 2020.2.6f1 (8a2143876886)
